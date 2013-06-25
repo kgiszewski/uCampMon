@@ -18,7 +18,7 @@ namespace uCampMon
     /// <summary>
     /// Summary description for CampaignMonitor
     /// </summary>
-    [WebService(Namespace = "http://franklinfueling.com/")]
+    [WebService(Namespace = "http://fele.com/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
 
